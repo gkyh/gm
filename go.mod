@@ -1,3 +1,3 @@
-module github.com/ZZMarquis/gm
+module github.com/gkyh/gm
 
 go 1.12
